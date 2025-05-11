@@ -12,7 +12,7 @@ A simple and interactive Rock-Paper-Scissors game built with HTML, CSS, and Java
 
 ## 🖼️ Demo
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/7ce522b7-f411-423e-9b5a-1ffae4faf06d)
 
 
 ## 🛠️ Technologies Used
